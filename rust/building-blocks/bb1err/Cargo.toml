@@ -1,0 +1,9 @@
+[package]
+name = "bb1err"
+version = "0.1.0"
+authors = ["pentium3 <celerond@msn.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
